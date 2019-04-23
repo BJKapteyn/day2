@@ -1,0 +1,7 @@
+D:\C#\Practice\Day2Prac\Day2Prac\bin\Debug\Day2Prac.exe.config
+D:\C#\Practice\Day2Prac\Day2Prac\bin\Debug\Day2Prac.exe
+D:\C#\Practice\Day2Prac\Day2Prac\bin\Debug\Day2Prac.pdb
+D:\C#\Practice\Day2Prac\Day2Prac\obj\Debug\Day2Prac.csprojAssemblyReference.cache
+D:\C#\Practice\Day2Prac\Day2Prac\obj\Debug\Day2Prac.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Day2Prac\Day2Prac\obj\Debug\Day2Prac.exe
+D:\C#\Practice\Day2Prac\Day2Prac\obj\Debug\Day2Prac.pdb
